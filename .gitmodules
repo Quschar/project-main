@@ -1,0 +1,3 @@
+[submodule "project-sub-01"]
+	path = project-sub-01
+	url = https://github.com/Quschar/project-sub-01.git
